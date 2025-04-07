@@ -1,0 +1,25 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 15rem;
+  text-align: center;
+}
+.navlink {
+  text-decoration: none;
+
+  color: white;
+  padding: 5rem;
+}
+
+.navlink div a {
+  padding-top: 50%;
+}
+
+nav a:hover {
+  color: #3a467c;
+  transform: scale(1.1); /* Vergrößert den Text bei Hover */
+}
+
+div {
+  padding: 100px;
+}
